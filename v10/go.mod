@@ -1,4 +1,4 @@
-module github.com/germanramos/gogen-avro/v10
+module github.com/masmovil/gogen-avro/v10
 
 go 1.17
 
